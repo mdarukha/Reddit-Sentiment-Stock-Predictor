@@ -5,7 +5,3 @@ __pycache__/
 
 # Ignore environment and secret files
 .env
-
-# Ignore data that shouldn't be committed
-*.csv
-*.pkl
